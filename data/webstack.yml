@@ -1,5 +1,31 @@
 ---
 
+- taxonomy: 核心连接
+  icon: fa-star
+  links: 
+    - title: 洛杉矶
+      logo: https://www.google.com/s2/favicons?sz=64&domain=lavps.yijingdong47.top
+      url: https://lavps.yijingdong47.top/
+      description: 洛杉矶主站！
+    - title: 香港VPS
+      qrcode: images/qrcodes/bk.png
+      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
+      url: https://vps.yijingdong47.top/
+      description: 香港主站。
+    - title: 香港MYTV
+      logo: images/logos/racknerd.png
+      url: https://mytv.shinian.cc.cd/
+      description: 香港MYTV
+    - title: 情迷魏绮清
+      logo: https://www.google.com/s2/favicons?sz=64&domain=weiqiqing.yijingdong47.top
+      url: https://weiqiqing.yijingdong47.top/
+      description: 魏绮清粉丝页
+    - title: 欧洲EU
+      qrcode: 
+      logo: images/logos/HQBS.png
+      url: https://euvps.yijingdong47.top/
+      description: EU服务器
+    
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
